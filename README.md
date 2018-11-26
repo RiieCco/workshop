@@ -38,8 +38,8 @@ For the basic outline we will provide the following topics:
 * [Cross site scripting - 1]()
 * [Cross site scripting - 2]()
 * [Path traversal]()
-* [SQL injection - 1]()
-* [SQL injection - 2]()
+* [SQL injection - 1](javascript:alert )
+* [SQL injection - 2](javascript:alert)
 * [External entity attack](javascript:alert(12))
 
 
