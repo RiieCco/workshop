@@ -35,13 +35,19 @@ guest:guest
 For the basic outline we will provide the following topics:
 
 * [* [Client side input validation](javascript:alert)
+![result](/img/client-side.png)
 * [Cross site scripting - 1](javascript:alert)
+![result](/img/reflected-xss.png)
 * [Cross site scripting - 2](javascript:alert)
+![result](/img/stored-xss.png)
 * [Path traversal](javascript:alert)
+![result](/img/lfi.png)
 * [SQL injection - 1](javascript:alert )
+![result](/img/numeric-sql.png)
 * [SQL injection - 2](javascript:alert)
+![result](/img/string-sql.png)
 * [External entity attack](javascript:alert(12))
-
+![result](/img/xxe.png)
 
 ## Course outline advanced!
 
