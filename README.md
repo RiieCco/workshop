@@ -31,20 +31,10 @@ java --add-modules java.xml.bind -jar webgoat-server-8.0.0.VERSION.jar
 
 Every release is also published on [DockerHub]((https://hub.docker.com/r/webgoat/webgoat-8.0/)).
 
-### Using docker-compose
-
-The easiest way to start WebGoat as a Docker container is to use the `docker-compose.yml` [file](https://raw.githubusercontent.com/WebGoat/WebGoat/develop/docker-compose.yml) 
-from our Github repository. This will start both containers and it also takes care of setting up the
-connection between WebGoat and WebWolf.
-
-```shell
-curl https://raw.githubusercontent.com/WebGoat/WebGoat/develop/docker-compose.yml | docker-compose -f - up
 ```
-
-**Important**: the current directory on your host will be mapped into the container for keeping state.
-
-Using the `docker-compose` file will simplify getting WebGoat and WebWolf up and running.
-
+docker pull webgoat/webgoat-8.0
+docker run -p 8080:8080 -t webgoat/webgoat-8.0
+```
 
 ## 3. Run from the sources
 
