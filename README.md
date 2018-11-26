@@ -50,4 +50,19 @@ For the more advanced topics i would like to invite everybody to the following r
 
 * [repository](https://github.com/RiieCco/owasp-bay-area)
 
+We can run this badboy with Docker on our local machine like:
 
+```
+docker pull rtencatexebia/workshop
+docker run -p8081:80181 rtencatexebia/workshop
+```
+
+the app now greets you on.
+
+http://0.0.0.0:8081
+
+OR we go to the hosted variant located at the following adres:
+
+```
+http://<ip-adress>
+```
