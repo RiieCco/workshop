@@ -34,10 +34,10 @@ guest:guest
 
 For the basic outline we will provide the following topics:
 
-* [* [Client side input validation]()
-* [Cross site scripting - 1]()
-* [Cross site scripting - 2]()
-* [Path traversal]()
+* [* [Client side input validation](javascript:alert)
+* [Cross site scripting - 1](javascript:alert)
+* [Cross site scripting - 2](javascript:alert)
+* [Path traversal](javascript:alert)
 * [SQL injection - 1](javascript:alert )
 * [SQL injection - 2](javascript:alert)
 * [External entity attack](javascript:alert(12))
