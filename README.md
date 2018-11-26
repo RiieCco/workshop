@@ -34,14 +34,13 @@ guest:guest
 
 For the basic outline we will provide the following topics:
 
-* [Client side constraints](https://github.com/RiieCco/owasp-bay-area/tree/master/course-guide/insecure-deserialization)
-* [Client side input validation](https://github.com/RiieCco/owasp-bay-area/blob/master/course-guide/server-side-template-injection/ssti.md)
-* [Cross site scripting - 1](https://github.com/RiieCco/owasp-bay-area/tree/master/course-guide/CORS-misconfiguration)
-* [Cross site scripting - 2](https://github.com/RiieCco/owasp-bay-area/tree/master/course-guide/external-entity-attack)
-* [Path traversal](https://github.com/RiieCco/owasp-bay-area/tree/master/course-guide/external-entity-attack)
-* [SQL injection - 1](https://github.com/RiieCco/owasp-bay-area/tree/master/course-guide/external-entity-attack)
-* [SQL injection - 2](https://github.com/RiieCco/owasp-bay-area/tree/master/course-guide/external-entity-attack)
-* [External entity attack](https://github.com/RiieCco/owasp-bay-area/tree/master/course-guide/external-entity-attack)
+* [* [Client side input validation]()
+* [Cross site scripting - 1]()
+* [Cross site scripting - 2]()
+* [Path traversal]()
+* [SQL injection - 1]()
+* [SQL injection - 2]()
+* [External entity attack](javascript:alert(12))
 
 
 ## Course outline advanced!
